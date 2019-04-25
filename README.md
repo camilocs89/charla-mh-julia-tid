@@ -5,7 +5,7 @@ Los papers sobre Metaheurísticas estan en este repositorio.
 
 Enlaces interesantes:
 
-[Notebooks en la nube en Julia.](https://juliabox.com/)
+[Notebooks en la nube para Julia.](https://juliabox.com/)
 
 [Benchmarks de Julia con otros lenguajes.](https://julialang.org/benchmarks/)
 
